@@ -16,7 +16,7 @@ For more information, or if this code is used, please go to or cite the followin
 
 - notebook containing code that generates figures for the manuscript
 
-*LiS-thermo-equilibria*:
+*src*:
 - *LiS_thermo.jl* contains Julia code to solve thermodynamic model.
 
 
