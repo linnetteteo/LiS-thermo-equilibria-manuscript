@@ -21,20 +21,20 @@ For more information, or if this code is used, please go to or cite the followin
 
 
 ### Software dependencies
-PYTHON v3.6.5
-Git Bash for Windows
+ - PYTHON v3.6.5
+ - Git Bash for Windows
 
-JULIA v1.1.1
-CSV v0.8.5
-DataFrames v1.3.1
-DifferentialEquations v6.4.0
-FileIO v1.12.0
-LineSearches v7.1.1
-NLsolve v4.5.1
-PyPlot v2.10.0
-Sundials v3.6.0
-DelimitedFiles
-LinearAlgebra
+ - JULIA v1.1.1
+ - CSV v0.8.5
+ - DataFrames v1.3.1
+ - DifferentialEquations v6.4.0
+ - FileIO v1.12.0
+ - LineSearches v7.1.1
+ - NLsolve v4.5.1
+ - PyPlot v2.10.0
+ - Sundials v3.6.0
+ - DelimitedFiles
+ - LinearAlgebra
 
 
 ### Getting started with Julia
