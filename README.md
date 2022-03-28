@@ -7,7 +7,8 @@ For more information, or if this code is used, please go to or cite the followin
 
 ### Folder structure
 *data*:
-- *thermo_initial_guesses.csv*
+- *thermo_initial_guesses.csv*  for thermo equilibria model
+- all other data used to make figures
 
 
 *jupyter_notebooks*:
@@ -18,11 +19,13 @@ For more information, or if this code is used, please go to or cite the followin
 
 *src*:
 - *LiS_thermo.jl* contains Julia code to solve thermodynamic model.
+- *gitt.py* python file used to analyze data used for figures
 
 
 ### Software dependencies
- - PYTHON v3.6.5
+ - PYTHON v3.6.5 (all other packages for making figures can be found in and installed using environment.yml)
  - Git Bash for Windows
+
 
  - JULIA v1.1.1
  - CSV v0.8.5
