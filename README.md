@@ -1,4 +1,7 @@
 # Lithium Sulfur Battery Thermodynamic Equilibria Model Manuscript
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6391971.svg)](https://doi.org/10.5281/zenodo.6391971)
+
 The thermodynamic equilibrium voltage of a lithium sulfur cell can be found using a Galvanostatic Intermittent Titration Technique (GITT) relaxation experiment. We model this equilibrium voltage using both a 1D physics-based model (thermo + transport + kinetics) and a thermodynamic model. The thermodynamic model is based on solving 8-9 algebraic equations in different regions of depth-of-discharge (DOD). This repository contains all the experimental and simulated data, the python code used to make figures in the corresponding manuscript, and the Julia code for the thermodynamic equilibrium model.
 
 For more information, or if this code is used, please go to or cite the following paper:
